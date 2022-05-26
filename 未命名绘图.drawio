@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T13:41:57.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.2" etag="RB-nvxc6eJEtMb79Qbua" type="github"><diagram id="bT3Fl66gkjyeAfOWlkpY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-26T13:47:01.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="SeeIi1UA88HEyUlr6CMn" version="18.1.2" type="github">
+  <diagram id="bT3Fl66gkjyeAfOWlkpY" name="第 1 页">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CZxYYUwcm1iIMvwC3LvQ-1" value="tbTransport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="456" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CZxYYUwcm1iIMvwC3LvQ-2" value="tbCore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="204" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CZxYYUwcm1iIMvwC3LvQ-3" value="tbRuleEngine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="456" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
